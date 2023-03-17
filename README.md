@@ -1,0 +1,2 @@
+# residencia_cubos_dados_variaveis_lista1
+residencia_cubos_dados_variaveis_lista1
